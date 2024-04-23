@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(45deg,#ffe5ec,#d5fef3);
+}
+.header {
+    display: inline;
+    text-align: center;
+}
+.mainHead {
+    color: red;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 50px;
+}
+.redCrossLogo {
+    width: 100px;
+    height: 100px;
+}
+.paragraph,#contacts li {
+    font-family: "Fira Sans";
+    text-align: center;
+    font-size: 25px;
+    color:crimson;
+}
+a {
+    color: magenta;
+}
+
+a:visited {
+    color: rgb(168, 101, 201);
+}
