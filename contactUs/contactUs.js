@@ -9,4 +9,4 @@ function newContacts(infoLists) {
         newContact(infoList[0],infoList[1],infoList[2])
     });
 }
-newContacts([["President","Veditha Chelikani","309920"],["Treasurer","Zainab Adnan","267918"],["Secretary","Dakota",""],["Head Manager of Technology and Communications","Finn Archer","277341"]])
+newContacts([["President","Veditha Chelikani","309920"],["Treasurer","Zainab Adnan","267918"],["Secretary","Dakota","268366"],["Head Manager of Technology and Communications"],["Historian","Sanjana Gunda","272781"],["Finn Archer","277341"]])
