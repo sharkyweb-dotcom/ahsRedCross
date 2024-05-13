@@ -11,8 +11,8 @@ function newContacts(infoLists) {
 }
 newContacts([
     ["President","Veditha Chelikani","309920"],
-    ["Treasurer","Zainab Adnan","267918"],
-    ["Secretary","Dakota Chavez","268366"],
-    ["Historian","Sanjana Gunda","272781"],
-    ["Head Manager of Technology and Communications","Finn Archer","277341"]
+    ["Officer","Zainab Adnan","267918"],
+    ["Officer","Dakota Chavez","268366"],
+    ["Officer","Sanjana Gunda","272781"],
+    // ["Head Manager of Technology and Communications","Finn Archer","277341"]
 ])
