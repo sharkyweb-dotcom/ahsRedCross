@@ -26,8 +26,8 @@ nav * {
     text-align: center;
 }
 nav .middle {
-    margin-right: 250px;
-    margin-left: 250px;
+    margin-right: 10vw;
+    margin-left: 10vw;
 }
 
 nav li {
@@ -47,3 +47,14 @@ nav li a:visited {
 nav li a:hover {
     text-decoration: underline;
 }
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    nav .middle {
+        margin-right: 2vw;
+        margin-left: 2vw;
+        margin-top: 8px;
+    }
+    nav * {
+        font-size: 15px;
+    }
+  }

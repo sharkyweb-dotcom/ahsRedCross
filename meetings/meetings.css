@@ -1,0 +1,10 @@
+#nav4 a {
+    color:red !important;
+    font-weight: bold;
+}
+p {
+    color:palevioletred !important;
+}
+.pale {
+    opacity: 0.5;
+}
